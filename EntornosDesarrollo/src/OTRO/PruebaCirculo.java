@@ -21,5 +21,7 @@ public class PruebaCirculo {
 		salida += "\nEl area es " + dosDigitos.format(circulo.obtenerArea());
 		JOptionPane.showMessageDialog(null, salida);
 		System.exit(0);
+		
+		//cambio hecho en la rama1
 	} // fin de main
 } // fin de la clase PruebaCirculo
